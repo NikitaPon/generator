@@ -1,0 +1,15 @@
+{
+  "name": "hygen-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "new-page": "hygen page new"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hygen": "^6.2.11"
+  }
+}
